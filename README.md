@@ -21,4 +21,4 @@ ID8 Сортировка списка товаров / Sorting the product list
 
 ### Чек-лист: https://docs.google.com/spreadsheets/d/1kg3e6ZKu3H0RBwTDXdBGKXHdgZsI4zgr/edit?usp=drive_link&ouid=104427992440020191062&rtpof=true&sd=true
 		
-<img width="992" height="3945" alt="image" src="https://github.com/user-attachments/assets/af458598-e630-459a-8062-a8dac6f93076" />
+<img alt="image" src="https://github.com/user-attachments/assets/af458598-e630-459a-8062-a8dac6f93076" />
