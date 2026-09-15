@@ -19,4 +19,6 @@ ID7 Фильтрация списка товаров / Filtering the product lis
 
 ID8 Сортировка списка товаров / Sorting the product list
 
-### Чек-лист : https://github.com/i-try-to-be-programmer/Checklist/blob/main/%D0%9F%D0%A0%D0%90%D0%9A%D0%A2%D0%98%D0%9A%D0%90%206%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D0%B0.xlsx
+### Чек-лист: https://docs.google.com/spreadsheets/d/1kg3e6ZKu3H0RBwTDXdBGKXHdgZsI4zgr/edit?usp=drive_link&ouid=104427992440020191062&rtpof=true&sd=true
+		
+<img width="992" height="3945" alt="image" src="https://github.com/user-attachments/assets/af458598-e630-459a-8062-a8dac6f93076" />
